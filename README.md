@@ -14,12 +14,6 @@ More information about monads at <a href="http://en.wikipedia.org/wiki/Monad_(fu
 1. Just copy **"Monads.cs"** file and add **"using Monads;"** to your code.
 2. Install via **nuget**.
 
-## Nuget
-
-PM> Install-Package Monads
-
-[Nuget link](http://nuget.org/packages/Monads)
-
 ## Contribution
 
 I'm glad to see your contributions for Monads.NET.
