@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MvcApplication2.Utilities
+namespace Monads
 {
     public static class Monads
     {
