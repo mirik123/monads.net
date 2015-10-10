@@ -1,3 +1,10 @@
+/**
+ * function programming helpers for .NET LINQ
+ * Copyright (c) 2015, Mark Babayev
+ * MIT license
+**/ 
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
